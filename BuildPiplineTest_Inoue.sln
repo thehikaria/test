@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0D15A2F8-DD34-BAEA-F9A2-C0C9B145DF39}") = "BuildPiplineTest_Inoue", "Assembly-CSharp.csproj", "{4A93338B-3F04-19E0-8519-9BE804EDC7D1}"
+EndProject
+Project("{0D15A2F8-DD34-BAEA-F9A2-C0C9B145DF39}") = "BuildPiplineTest_Inoue", "Assembly-CSharp-Editor.csproj", "{BB5D5298-B6E9-1F41-9AE3-521BBAAD5C53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A93338B-3F04-19E0-8519-9BE804EDC7D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A93338B-3F04-19E0-8519-9BE804EDC7D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A93338B-3F04-19E0-8519-9BE804EDC7D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A93338B-3F04-19E0-8519-9BE804EDC7D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB5D5298-B6E9-1F41-9AE3-521BBAAD5C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB5D5298-B6E9-1F41-9AE3-521BBAAD5C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB5D5298-B6E9-1F41-9AE3-521BBAAD5C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB5D5298-B6E9-1F41-9AE3-521BBAAD5C53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
